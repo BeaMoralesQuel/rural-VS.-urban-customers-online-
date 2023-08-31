@@ -1,4 +1,4 @@
-# Comparative Analysis of Online Shopping Patterns Between Rural and Urban Customers in the US Market
+# Comparative Analysis of Online customers in Rural and Urban areas in the US Market
 
 # Project Overview
 
