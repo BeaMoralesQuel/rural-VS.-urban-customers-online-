@@ -1,24 +1,31 @@
-# Rural vs.urban customers online
+# Title: Comparative Analysis of Online Shopping Patterns Between Rural and Urban Customers in the US Market
 
-A project on the online retailer US market, in urban vs. rural areas.
+# Project Overview:
 
-# Motivation
+This project focuses on exploring and contrasting the online shopping behaviors of customers in rural and urban areas within the US market.
 
-I wanted to see the difference in online shopping between rural and urban customers. 
+# Objective:
 
-With this project I have been able to see and certify the differences between this two markets, as well as predict future sales volume. 
+The primary objective of this project is to identify and analyze the disparities in online shopping habits between rural and urban customers, while also developing predictive insights for future sales trends.
 
-# Code style
+# Motivation and Purpose:
 
-This notebook uses:
+In pursuit of understanding the dynamics of online shopping across different demographics, this project was undertaken to specifically examine the variations in online shopping trends between customers residing in rural and urban settings.
+
+# Data Sources:
+
+The project draws data from two sources:
+
+**The U.S. Department of Agriculture** provided valuable datasets, including urban area classification information, which served as a basis for defining rural and urban segments
+https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes/
+Alexis Rangel Calvo's Amazon sales dataset 2020-2021, accessible on **Kaggle**, forms the core of the project's analysis.
+https://www.kaggle.com/datasets/earthfromtop/amazon-sales-fy202021
+
+# Methodology and Code:
 
 - Python
 - SQL
 
-# Credits
+# Insights and Predictive Analysis:
 
-Data was sourced from:
-
-U.S. DEPARTMENT OF AGRICULTURE, where I got both the database of urban areas and the information to understand the classification.: https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes/
-
-Alexis Rangel Calvo's Amazon sales 2020-21 dataset in Kaggle: https://www.kaggle.com/datasets/earthfromtop/amazon-sales-fy202021
+By meticulously comparing the online shopping behaviors of rural and urban customers, this project uncovers insights into their preferences, purchase patterns, and interactions with the online retail market. Furthermore, predictive models are developed to anticipate future sales volume trends based on the identified patterns.
