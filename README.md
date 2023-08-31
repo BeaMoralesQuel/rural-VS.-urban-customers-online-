@@ -8,7 +8,7 @@ I wanted to see the difference in online shopping between rural and urban custom
 
 With this project I have been able to see and certify the differences between this two markets, as well as predict future sales volume. 
 
-#Code style
+# Code style
 
 This notebook uses:
 
